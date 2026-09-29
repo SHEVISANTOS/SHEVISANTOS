@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D2E,50:14532D,100:D4AF37&height=210&section=header&text=SHEVI%20SANTOS&fontSize=50&fontColor=FFFFFF&fontAlignY=34&desc=ICT%20Specialist%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Python%20%26%20ML%20Engineer&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D2E,50:14532D,100:D4AF37&height=210&section=header&text=SHEVI%20SANTOS&fontSize=50&fontColor=FFFFFF&fontAlignY=34&desc=ICT%20Specialist%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Python%20and%20ML%20Engineer&descAlignY=55&descSize=16" width="100%" alt="Shevi Santos: ICT Specialist, Full-Stack Developer, Python and ML Engineer"/>
 
 <a href="#contact">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1100&color=D4AF37&center=true&vCenter=true&width=780&height=45&lines=Secure+and+scalable+technology+solutions;Software+engineering+%C2%B7+system+administration;Cybersecurity+%C2%B7+network+design;Machine+learning+%C2%B7+database+administration" alt="Typing intro"/>
