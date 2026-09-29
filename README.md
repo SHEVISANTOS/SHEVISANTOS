@@ -38,7 +38,7 @@ shevi@santos360:~$ whoami --verbose
   company .......... Founder — Santos 360 Tech Solutions
   services ......... software development · IoT solutions
   affiliation ...... Mbeya University of Science and Technology (MUST)
-  base ............. Mbeya, Tanzania 🇹🇿  [UTC+3 · EAT]
+  base ............. Mwanza, Tanzania 🇹🇿  [UTC+3 · EAT]
   builds ........... institutional systems · client platforms · ML apps
   status ........... ONLINE — open to client projects & collaboration
 
@@ -104,7 +104,7 @@ For tomato disease detection I benchmarked EfficientNet-B0, ResNet-50, a custom 
 <br/>
 
 ```bash
-shevi@santos360:~$ ./engage --client you
+shevijeremiah@gmail.com:~$ ./engage --client you
 
   [1] discovery call ...... what you need, who uses it, what "done" means
   [2] proposal ............ scope, timeline, milestones, price
@@ -385,17 +385,11 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHEVISANTOS&theme=github_dark" width="100%"/>
+GitHub's profile pages provide live repository and contribution data directly, without third-party stats cards.
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SHEVISANTOS&theme=github_dark" height="165"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SHEVISANTOS&theme=github_dark" height="165"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SHEVISANTOS&theme=github_dark" height="165"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SHEVISANTOS&theme=github_dark&utcOffset=3" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=SHEVISANTOS&hide_border=true&background=0D1117&stroke=14532D&ring=D4AF37&fire=22C55E&currStreakLabel=D4AF37&sideLabels=22C55E&dates=8B949E&sideNums=FFFFFF&currStreakNum=FFFFFF" width="100%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHEVISANTOS&bg_color=0D1117&color=D4AF37&line=22C55E&point=D4AF37&area=true&hide_border=true" width="100%"/>
+| [Repositories](https://github.com/SHEVISANTOS?tab=repositories) | [Contribution activity](https://github.com/SHEVISANTOS?tab=overview) | [Starred projects](https://github.com/SHEVISANTOS?tab=stars) |
+|:---:|:---:|:---:|
+| Browse projects and languages | View the contribution graph | Explore saved projects |
 
 </div>
 
@@ -409,9 +403,9 @@ flowchart LR
 
 **`// PICK A CHANNEL`**
 
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/EMAIL-0B3D2E?style=for-the-badge&logo=gmail&logoColor=D4AF37"/></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0B3D2E?style=for-the-badge&logo=linkedin&logoColor=D4AF37"/></a>
-<a href="https://wa.me/255XXXXXXXXX"><img src="https://img.shields.io/badge/WHATSAPP-0B3D2E?style=for-the-badge&logo=whatsapp&logoColor=22C55E"/></a>
+<a href="mailto:YOUR_shevijeremiah@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B3D2E?style=for-the-badge&logo=gmail&logoColor=D4AF37"/></a>
+<a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LINKEDIN-0B3D2E?style=for-the-badge&logo=linkedin&logoColor=D4AF37"/></a>
+<a href="https://wa.me/255625000799"><img src="https://img.shields.io/badge/WHATSAPP-0B3D2E?style=for-the-badge&logo=whatsapp&logoColor=22C55E"/></a>
 <a href="https://github.com/SHEVISANTOS/SHEVISANTOS/issues/new?title=%5BPROJECT%5D%20Proposal&body=**What%20you%20need%3A**%0A%0A**Timeline%3A**%0A%0A**Budget%20range%3A**%0A"><img src="https://img.shields.io/badge/📨_START_A_PROJECT-0B3D2E?style=for-the-badge&color=D4AF37"/></a>
 
 </div>
@@ -453,7 +447,7 @@ shevi@santos360:~$ sudo cat /secret
 
 <div align="center">
 
-**Built in Mbeya, Tanzania 🇹🇿 · Santos 360 Tech Solutions**
+**Built in Mwanza, Tanzania 🇹🇿 · Santos 360 Tech Solutions**
 
 <a href="#top">↑ back to top</a>
 
