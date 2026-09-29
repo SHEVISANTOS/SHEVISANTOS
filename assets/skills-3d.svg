@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">Skills across six technology domains</title>
+  <desc id="desc">A compact isometric city representing programming languages, backend, frontend, data, machine learning, and delivery tools.</desc>
+  <defs>
+    <linearGradient id="ground" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#14532d" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#d4af37" stop-opacity=".08"/>
+    </linearGradient>
+    <linearGradient id="tower" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#166534"/>
+      <stop offset="1" stop-color="#0b3d2e"/>
+    </linearGradient>
+    <style>
+      .label { font: 700 17px 'DejaVu Sans', sans-serif; fill: #0b3d2e; }
+      .small { font: 600 11px 'DejaVu Sans', sans-serif; fill: #52705d; letter-spacing: 1px; }
+      .window { fill: #d4af37; opacity: .9; }
+      .line { stroke: #d4af37; stroke-width: 2; opacity: .8; }
+    </style>
+  </defs>
+  <path d="M600 18 1148 165 600 312 52 165Z" fill="url(#ground)" stroke="#14532d" stroke-opacity=".18"/>
+  <path d="M52 165 600 312v9L52 174Zm1096 0L600 312v9l548-147Z" fill="#0b3d2e" opacity=".08"/>
+  <g transform="translate(170 90)">
+    <path d="M0 48 92 23l92 25-92 26Z" fill="#d4af37" opacity=".22"/><path d="M38 25 92 10v54L38 79Z" fill="url(#tower)"/><path d="m92 10 49 15v54L92 64Z" fill="#14532d"/><path d="m38 25 54-15 49 15-54 15Z" fill="#d4af37"/><path d="M54 39v10m17-15v11m17-16v11m17 0v16m17-11v16" class="line"/>
+    <text x="92" y="111" text-anchor="middle" class="label">Languages</text><text x="92" y="130" text-anchor="middle" class="small">CODE</text>
+  </g>
+  <g transform="translate(445 48)">
+    <path d="M0 48 92 23l92 25-92 26Z" fill="#d4af37" opacity=".22"/><path d="M38 25 92 10v76L38 101Z" fill="url(#tower)"/><path d="m92 10 49 15v76L92 86Z" fill="#14532d"/><path d="m38 25 54-15 49 15-54 15Z" fill="#d4af37"/><path d="M54 40v12m17-17v12m17-17v12m17 10v17m17-12v17" class="line"/>
+    <text x="92" y="132" text-anchor="middle" class="label">Backend</text><text x="92" y="151" text-anchor="middle" class="small">SYSTEMS</text>
+  </g>
+  <g transform="translate(720 90)">
+    <path d="M0 48 92 23l92 25-92 26Z" fill="#d4af37" opacity=".22"/><path d="M38 25 92 10v54L38 79Z" fill="url(#tower)"/><path d="m92 10 49 15v54L92 64Z" fill="#14532d"/><path d="m38 25 54-15 49 15-54 15Z" fill="#d4af37"/><path d="M54 39v10m17-15v11m17-16v11m17 0v16m17-11v16" class="line"/>
+    <text x="92" y="111" text-anchor="middle" class="label">Frontend</text><text x="92" y="130" text-anchor="middle" class="small">INTERFACES</text>
+  </g>
+  <g transform="translate(170 184)">
+    <path d="M0 48 92 23l92 25-92 26Z" fill="#d4af37" opacity=".22"/><path d="M38 25 92 10v54L38 79Z" fill="url(#tower)"/><path d="m92 10 49 15v54L92 64Z" fill="#14532d"/><path d="m38 25 54-15 49 15-54 15Z" fill="#d4af37"/><path d="M54 39v10m17-15v11m17-16v11m17 0v16m17-11v16" class="line"/>
+    <text x="92" y="111" text-anchor="middle" class="label">Data</text><text x="92" y="130" text-anchor="middle" class="small">STORAGE</text>
+  </g>
+  <g transform="translate(445 184)">
+    <path d="M0 48 92 23l92 25-92 26Z" fill="#d4af37" opacity=".22"/><path d="M38 25 92 10v54L38 79Z" fill="url(#tower)"/><path d="m92 10 49 15v54L92 64Z" fill="#14532d"/><path d="m38 25 54-15 49 15-54 15Z" fill="#d4af37"/><path d="M54 39v10m17-15v11m17-16v11m17 0v16m17-11v16" class="line"/>
+    <text x="92" y="111" text-anchor="middle" class="label">AI / ML</text><text x="92" y="130" text-anchor="middle" class="small">INTELLIGENCE</text>
+  </g>
+  <g transform="translate(720 184)">
+    <path d="M0 48 92 23l92 25-92 26Z" fill="#d4af37" opacity=".22"/><path d="M38 25 92 10v54L38 79Z" fill="url(#tower)"/><path d="m92 10 49 15v54L92 64Z" fill="#14532d"/><path d="m38 25 54-15 49 15-54 15Z" fill="#d4af37"/><path d="M54 39v10m17-15v11m17-16v11m17 0v16m17-11v16" class="line"/>
+    <text x="92" y="111" text-anchor="middle" class="label">Delivery</text><text x="92" y="130" text-anchor="middle" class="small">TOOLS</text>
+  </g>
+</svg>

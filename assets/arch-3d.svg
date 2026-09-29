@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">Five-layer application architecture</title>
+  <desc id="desc">An isometric stack showing interface, application, realtime, integrations, and data layers.</desc>
+  <defs>
+    <linearGradient id="front" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#166534"/>
+      <stop offset="1" stop-color="#0b3d2e"/>
+    </linearGradient>
+    <style>
+      .title { font: 700 17px 'DejaVu Sans', sans-serif; fill: #0b3d2e; }
+      .sub { font: 500 12px 'DejaVu Sans', sans-serif; fill: #52705d; }
+    </style>
+  </defs>
+  <g transform="translate(120 20)">
+    <g transform="translate(0 0)">
+      <path d="M140 0 640 0 760 48 260 48Z" fill="#d4af37"/><path d="M140 0 260 48 260 83 140 35Z" fill="#14532d"/><path d="M260 48 760 48 760 83 260 83Z" fill="url(#front)"/>
+      <circle cx="294" cy="65" r="5" fill="#d4af37"/><circle cx="312" cy="65" r="5" fill="#d4af37"/><circle cx="330" cy="65" r="5" fill="#d4af37"/><text x="500" y="70" text-anchor="middle" class="title">Interface</text><text x="862" y="69" class="sub">Web, mobile, dashboards</text>
+    </g>
+    <g transform="translate(0 56)">
+      <path d="M140 0 640 0 760 48 260 48Z" fill="#4f8f57"/><path d="M140 0 260 48 260 83 140 35Z" fill="#14532d"/><path d="M260 48 760 48 760 83 260 83Z" fill="url(#front)"/>
+      <circle cx="294" cy="65" r="5" fill="#d4af37"/><circle cx="312" cy="65" r="5" fill="#d4af37"/><circle cx="330" cy="65" r="5" fill="#d4af37"/><text x="500" y="70" text-anchor="middle" class="title">Application</text><text x="862" y="69" class="sub">Domain logic and APIs</text>
+    </g>
+    <g transform="translate(0 112)">
+      <path d="M140 0 640 0 760 48 260 48Z" fill="#d4af37"/><path d="M140 0 260 48 260 83 140 35Z" fill="#14532d"/><path d="M260 48 760 48 760 83 260 83Z" fill="url(#front)"/>
+      <circle cx="294" cy="65" r="5" fill="#d4af37"/><circle cx="312" cy="65" r="5" fill="#d4af37"/><circle cx="330" cy="65" r="5" fill="#d4af37"/><text x="500" y="70" text-anchor="middle" class="title">Realtime</text><text x="862" y="69" class="sub">Channels and WebSockets</text>
+    </g>
+    <g transform="translate(0 168)">
+      <path d="M140 0 640 0 760 48 260 48Z" fill="#4f8f57"/><path d="M140 0 260 48 260 83 140 35Z" fill="#14532d"/><path d="M260 48 760 48 760 83 260 83Z" fill="url(#front)"/>
+      <circle cx="294" cy="65" r="5" fill="#d4af37"/><circle cx="312" cy="65" r="5" fill="#d4af37"/><circle cx="330" cy="65" r="5" fill="#d4af37"/><text x="500" y="70" text-anchor="middle" class="title">Integrations</text><text x="862" y="69" class="sub">Payments, email, external services</text>
+    </g>
+    <g transform="translate(0 224)">
+      <path d="M140 0 640 0 760 48 260 48Z" fill="#d4af37"/><path d="M140 0 260 48 260 83 140 35Z" fill="#14532d"/><path d="M260 48 760 48 760 83 260 83Z" fill="url(#front)"/>
+      <circle cx="294" cy="65" r="5" fill="#d4af37"/><circle cx="312" cy="65" r="5" fill="#d4af37"/><circle cx="330" cy="65" r="5" fill="#d4af37"/><text x="500" y="70" text-anchor="middle" class="title">Data</text><text x="862" y="69" class="sub">Persistence and storage</text>
+    </g>
+  </g>
+</svg>
